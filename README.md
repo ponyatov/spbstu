@@ -11,3 +11,8 @@
   * [Constraint Solving and Planning with Picat](http://picat-lang.org/picatbook2015/constraint_solving_and_planning_with_picat.pdf)
     (c) Neng-Fa Zhou, Hakan Kjellerstrand, and Jonathan Fruhman
   * [A User’s Guide to Picat](http://picat-lang.org/download/picat_guide.pdf) Version 2.7b16
+
+* видео докладов по языку
+  * https://www.youtube.com/watch?v=UcqsE0em6QA
+  * https://www.youtube.com/watch?v=wXtes_nPVEw
+  * https://www.youtube.com/watch?v=zskrqEKt_4g
