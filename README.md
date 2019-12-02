@@ -5,3 +5,4 @@
   * [Структура программы на ПРОЛОГе](https://www.youtube.com/watch?v=ZFcqXDS4zRw)
   * [Несколько программ на ПРОЛОГе](https://www.youtube.com/watch?v=cPM2S9nk6Dk)
 * http://dcn.icc.spbstu.ru/
+* [адаптация книги The Art of Prolog для Picat](https://github.com/ponyatov/TAoPicat/releases/latest)
