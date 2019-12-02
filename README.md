@@ -16,4 +16,4 @@
   * стрим [попытка наколхозить компилятор в WASM](https://www.youtube.com/watch?v=UcqsE0em6QA)
   * Sergii Dymchenko: Introduction to Tabled Logic Programming with Picat  - λC 2016
     * [Part 1](https://www.youtube.com/watch?v=wXtes_nPVEw)
-    * [Part 2]https://www.youtube.com/watch?v=zskrqEKt_4g)
+    * [Part 2](https://www.youtube.com/watch?v=zskrqEKt_4g)
