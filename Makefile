@@ -1,6 +1,9 @@
 
 PI = $(HOME)/Picat/picat
 
+nod: $(PI) nod.pi
+	$^
+
 hello: $(PI) hello.pi
 	$^
 
