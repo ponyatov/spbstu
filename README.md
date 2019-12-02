@@ -13,6 +13,7 @@
   * [A User’s Guide to Picat](http://picat-lang.org/download/picat_guide.pdf) Version 2.7b16
 
 * видео докладов по языку
-  * https://www.youtube.com/watch?v=UcqsE0em6QA
-  * https://www.youtube.com/watch?v=wXtes_nPVEw
-  * https://www.youtube.com/watch?v=zskrqEKt_4g
+  * стрим [попытка наколхозить компилятор в WASM](https://www.youtube.com/watch?v=UcqsE0em6QA)
+  * Sergii Dymchenko: Introduction to Tabled Logic Programming with Picat  - λC 2016
+    * [Part 1](https://www.youtube.com/watch?v=wXtes_nPVEw)
+    * [Part 2]https://www.youtube.com/watch?v=zskrqEKt_4g)
